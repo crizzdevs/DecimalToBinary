@@ -1,6 +1,8 @@
+package com.mycompany.decimaltobinarycalculatorxd;
+
 import java.util.Scanner;
 
-public class DecimalToBinary {
+public class DecimalToBinaryCalculatorXD {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
